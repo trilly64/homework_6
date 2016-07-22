@@ -1,0 +1,40 @@
+body {
+	font-family: sans-serif;
+}
+.background {
+	position: relative;
+	width: 1000px;
+	height: 1310px;
+	margin: auto;
+	background-color: #cd2345;
+}
+.banner {
+	position: absolute;
+	top: 54px;
+	left: 48px;
+	right: 48px;	
+}
+.menu {
+	position: absolute;
+	top: 297px;
+	left: 48px;
+	right: 48px;
+	width: 910px;
+	height: 33px;
+	border-radius: 4px;
+	background-color: #020202;
+}
+.menu li {
+	display: inline-block;
+	margin-top: 6px;
+	padding-left: 28px;
+}
+.menu a {
+	color: #929b9f;
+	font-size: 14px;
+	text-decoration: none;
+	font-style: 
+}
+.menu ul {
+	margin-left: 50px;
+}
